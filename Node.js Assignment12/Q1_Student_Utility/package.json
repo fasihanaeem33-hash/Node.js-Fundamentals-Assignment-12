@@ -1,0 +1,17 @@
+
+{
+  "name": "student-utility",
+  "version": "1.0.0",
+  "description": "Student Utility CLI using Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "student",
+    "utility"
+  ],
+  "author": "",
+  "license": "ISC"
+}
